@@ -1,0 +1,12 @@
+{
+	"groups":[{
+			"keys":"game_json",
+			"name":"preload"
+		}],
+	"resources":[{
+			"name":"game_json",
+			"subkeys":"againbt1,againbt2,blood,fx,game_bg,lovers_0,lovers_1,lovers_2,lovers_3,morbt1,morbt2,photo_bg,returnbt1,returnbt2,score_bg,share,share1,share2,single_0,single_1,single_2,single_3,star_page,starbt1,starbt2,time_over,title_bg",
+			"type":"sheet",
+			"url":"assets/game.json"
+		}]
+}
